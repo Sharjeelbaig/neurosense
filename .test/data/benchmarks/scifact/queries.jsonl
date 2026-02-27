@@ -1,0 +1,50 @@
+{"id": "scifact:517", "query": "High levels of copeptin decrease risk of diabetes.", "positive_ids": ["scifact:15663829"]}
+{"id": "scifact:1150", "query": "Tetraspanin-3 is a causative factor in the development of acute myelogenous leukemia", "positive_ids": ["scifact:11369420"]}
+{"id": "scifact:171", "query": "Basophils counteract disease development in patients with systemic lupus erythematosus (SLE).", "positive_ids": ["scifact:12670680"]}
+{"id": "scifact:431", "query": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).", "positive_ids": ["scifact:28937856"]}
+{"id": "scifact:142", "query": "Autologous transplantation of mesenchymal stem cells causes a higher rate of opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.", "positive_ids": ["scifact:10582939"]}
+{"id": "scifact:1199", "query": "The benefits of colchicine were achieved with effective widespread use of secondary prevention strategies such as high-dose statins.", "positive_ids": ["scifact:16760369"]}
+{"id": "scifact:879", "query": "Occupancy of ribosomes by IncRNAs do not make functional peptides.", "positive_ids": ["scifact:8426046"]}
+{"id": "scifact:552", "query": "IgA plasma cells that are specific for transglutaminase 2 accumulate in the duodenal mucosa on commencement of a gluten-free diet.", "positive_ids": ["scifact:1471041"]}
+{"id": "scifact:100", "query": "All hematopoietic stem cells segregate their chromosomes randomly.", "positive_ids": ["scifact:4381486"]}
+{"id": "scifact:1088", "query": "Silencing of Bcl2 is important for the maintenance and progression of tumors.", "positive_ids": ["scifact:37549932"]}
+{"id": "scifact:127", "query": "Arginine 90 in p150n is important for interaction with EB1.", "positive_ids": ["scifact:21598000"]}
+{"id": "scifact:1379", "query": "Women with a higher birth weight are more likely to develop breast cancer later in life.", "positive_ids": ["scifact:16322674", "scifact:17450673", "scifact:23557241", "scifact:27123743"]}
+{"id": "scifact:513", "query": "High cardiopulmonary fitness causes increased mortality rate.", "positive_ids": ["scifact:13230773"]}
+{"id": "scifact:1029", "query": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with greater resistance to autoimmune diseases such as Type 1 Diabetes.", "positive_ids": ["scifact:11899391", "scifact:13923140", "scifact:13940200"]}
+{"id": "scifact:956", "query": "Pleiotropic coupling of GLP-1R to intracellular effectors promotes distinct profiles of cellular signaling.", "positive_ids": ["scifact:12956194"]}
+{"id": "scifact:1385", "query": "cSMAC formation enhances weak ligand signalling.", "positive_ids": ["scifact:306006"]}
+{"id": "scifact:1362", "query": "Venules have a larger lumen diameter than arterioles.", "positive_ids": ["scifact:8290953"]}
+{"id": "scifact:179", "query": "Birth-weight is positively associated with breast cancer.", "positive_ids": ["scifact:16322674", "scifact:17450673", "scifact:23557241", "scifact:27123743"]}
+{"id": "scifact:729", "query": "Lymphadenopathy is observed in knockin mouse lacking the SHP-2 MAPK pathway.", "positive_ids": ["scifact:26851674"]}
+{"id": "scifact:805", "query": "Monoclonal antibody targeting of N-cadherin inhibits metastasis.", "positive_ids": ["scifact:22180793"]}
+{"id": "scifact:1187", "query": "The YAP1 and TEAD complex tanslocates into the nucleus where it interacts with transcription factors and DNA-binding proteins that modulate target gene transcription.", "positive_ids": ["scifact:52873726"]}
+{"id": "scifact:3", "query": "1,000 genomes project enables mapping of genetic sequence variation consisting of rare variants with larger penetrance effects than common variants.", "positive_ids": ["scifact:14717500"]}
+{"id": "scifact:1086", "query": "Sildenafil improves erectile function in men who experience sexual dysfunction as a result of the use of SSRI antidepressants.", "positive_ids": ["scifact:39281140"]}
+{"id": "scifact:1200", "query": "The binding orientation of the ML-SA1 activator at hTRPML2 is different from the binding orientation of the ML-SA1 activator at hTRPML1.", "positive_ids": ["scifact:3441524"]}
+{"id": "scifact:684", "query": "Lack of clpC does not affect sporulation efficiency in Bacillus subtilis cells.", "positive_ids": ["scifact:4942718"]}
+{"id": "scifact:619", "query": "Increased vessel density along with a reduction in fibrosis decreases the efficacy of chemotherapy treatments.", "positive_ids": ["scifact:20888849", "scifact:2565138"]}
+{"id": "scifact:1191", "query": "The amount of publicly available DNA data doubles every 10 years.", "positive_ids": ["scifact:30655442"]}
+{"id": "scifact:957", "query": "Podocytes are motile and migrate in the presence of injury.", "positive_ids": ["scifact:123859"]}
+{"id": "scifact:411", "query": "Febrile seizures reduce the threshold for development of epilepsy.", "positive_ids": ["scifact:14924526"]}
+{"id": "scifact:42", "query": "A high microerythrocyte count raises vulnerability to severe anemia in homozygous alpha (+)- thalassemia trait subjects.", "positive_ids": ["scifact:18174210"]}
+{"id": "scifact:1332", "query": "Tumor necrosis factor alpha (TNF-α) and interleukin-1 (IL-1) are pro-inflammatory cytokines that inhibit IL-6 and IL-10.", "positive_ids": ["scifact:5304891"]}
+{"id": "scifact:569", "query": "In adult tissue, most T cells are memory T cells.", "positive_ids": ["scifact:23460562"]}
+{"id": "scifact:870", "query": "Obesity decreases life quality.", "positive_ids": ["scifact:195689316"]}
+{"id": "scifact:146", "query": "Autologous transplantation of mesenchymal stem cells has lower rates of rejection than induction therapy with anti-interleukin-2 receptor antibodies.", "positive_ids": ["scifact:10582939"]}
+{"id": "scifact:1110", "query": "Suboptimal nutrition is not predictive of chronic disease", "positive_ids": ["scifact:13770184"]}
+{"id": "scifact:831", "query": "NF2 (Merlin) prevents phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila.", "positive_ids": ["scifact:1897324"]}
+{"id": "scifact:1202", "query": "The center of the granuloma in an immune cell induces a pro-inflammatory immune response.", "positive_ids": ["scifact:3475317"]}
+{"id": "scifact:521", "query": "High-sensitivity cardiac troponin T (HSCT-T) dosage may not be diagnostic if the onset of symptoms occurs less than 3 hours before acute myocardial injury (AMI).", "positive_ids": ["scifact:34873974"]}
+{"id": "scifact:539", "query": "Hypoglycemia increases the risk of dementia.", "positive_ids": ["scifact:13282296"]}
+{"id": "scifact:218", "query": "CX3CR1 on the Th2 cells promotes airway inflammation.", "positive_ids": ["scifact:21366394"]}
+{"id": "scifact:1204", "query": "The combination of H3K4me3 and H3K79me2 is found in quiescent hair follicle stem cells.", "positive_ids": ["scifact:31141365"]}
+{"id": "scifact:1179", "query": "The PRR MDA5 has a central DExD/H RNA helices domain.", "positive_ids": ["scifact:31272411"]}
+{"id": "scifact:1290", "query": "There is an inverse relationship between hip fractures and statin use.", "positive_ids": ["scifact:4687948"]}
+{"id": "scifact:327", "query": "Deletion of αvβ8 does not result in a spontaneous inflammatory phenotype.", "positive_ids": ["scifact:17997584"]}
+{"id": "scifact:1272", "query": "The single flash-evoked ERG b-wave is generated by activity of ON-bipolar cells.", "positive_ids": ["scifact:17081238"]}
+{"id": "scifact:502", "query": "Healthcare delivery efficiency in crowded delivery centers is impaired by improving structural, logistical, and interpersonal elements.", "positive_ids": ["scifact:13071728"]}
+{"id": "scifact:1241", "query": "The myocardial lineage develops from cardiac progenitors of mesodermal origin.", "positive_ids": ["scifact:4427392"]}
+{"id": "scifact:742", "query": "Macrolides have no protective effect against myocardial infarction.", "positive_ids": ["scifact:32159283"]}
+{"id": "scifact:967", "query": "Pretreatment with the Arp2/3 inhibitor CK-666 affects lamelliopodia formation.", "positive_ids": ["scifact:2119889", "scifact:8997410"]}
+{"id": "scifact:238", "query": "Cells undergoing methionine restriction may activate miRNAs.", "positive_ids": ["scifact:2251426"]}

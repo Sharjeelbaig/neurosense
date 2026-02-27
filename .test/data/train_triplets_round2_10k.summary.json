@@ -1,0 +1,16 @@
+{
+  "model": "models/Neurosense",
+  "input_pairs": 10000,
+  "triplets_written": 10000,
+  "by_dataset_input": {
+    "nfcorpus": 6094,
+    "fiqa": 3605,
+    "scifact": 301
+  },
+  "by_dataset_mined": {
+    "nfcorpus": 6094,
+    "fiqa": 3605,
+    "scifact": 301
+  },
+  "out_file": ".test/data/train_triplets_round2_10k.jsonl"
+}

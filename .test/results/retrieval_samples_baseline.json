@@ -1,0 +1,183 @@
+[
+  {
+    "dataset": "fiqa",
+    "query_id": "fiqa:3189",
+    "query": "Diversify my retirement investments with a Roth IRA",
+    "positive_ids": [
+      "fiqa:225395",
+      "fiqa:272840"
+    ],
+    "top3": [
+      "fiqa:455398",
+      "fiqa:159076",
+      "fiqa:42301"
+    ],
+    "hit@1": false
+  },
+  {
+    "dataset": "fiqa",
+    "query_id": "fiqa:2385",
+    "query": "As director, can I invoice my self-owned company?",
+    "positive_ids": [
+      "fiqa:373059",
+      "fiqa:407654"
+    ],
+    "top3": [
+      "fiqa:373059",
+      "fiqa:293687",
+      "fiqa:407654"
+    ],
+    "hit@1": true
+  },
+  {
+    "dataset": "fiqa",
+    "query_id": "fiqa:1832",
+    "query": "Warren Buffett and Charles Munger advice for small investors?",
+    "positive_ids": [
+      "fiqa:590276"
+    ],
+    "top3": [
+      "fiqa:590276",
+      "fiqa:375671",
+      "fiqa:106541"
+    ],
+    "hit@1": true
+  },
+  {
+    "dataset": "nfcorpus",
+    "query_id": "nfcorpus:PLAIN-3074",
+    "query": "How to Help Prevent Abdominal Aortic Aneurysms",
+    "positive_ids": [
+      "nfcorpus:MED-4555"
+    ],
+    "top3": [
+      "nfcorpus:MED-4555",
+      "nfcorpus:MED-4423",
+      "nfcorpus:MED-4560"
+    ],
+    "hit@1": true
+  },
+  {
+    "dataset": "nfcorpus",
+    "query_id": "nfcorpus:PLAIN-2800",
+    "query": "Prolonged Liver Function Enhancement From Broccoli",
+    "positive_ids": [
+      "nfcorpus:MED-4040",
+      "nfcorpus:MED-4047",
+      "nfcorpus:MED-4049",
+      "nfcorpus:MED-4050",
+      "nfcorpus:MED-4051",
+      "nfcorpus:MED-4053",
+      "nfcorpus:MED-4055",
+      "nfcorpus:MED-4068",
+      "nfcorpus:MED-4069",
+      "nfcorpus:MED-4070",
+      "nfcorpus:MED-4071",
+      "nfcorpus:MED-4072",
+      "nfcorpus:MED-4073",
+      "nfcorpus:MED-4075",
+      "nfcorpus:MED-4438",
+      "nfcorpus:MED-4439",
+      "nfcorpus:MED-4454",
+      "nfcorpus:MED-4455",
+      "nfcorpus:MED-4471",
+      "nfcorpus:MED-4472",
+      "nfcorpus:MED-4861",
+      "nfcorpus:MED-4976",
+      "nfcorpus:MED-5116",
+      "nfcorpus:MED-5197"
+    ],
+    "top3": [
+      "nfcorpus:MED-2098",
+      "nfcorpus:MED-2074",
+      "nfcorpus:MED-2068"
+    ],
+    "hit@1": false
+  },
+  {
+    "dataset": "nfcorpus",
+    "query_id": "nfcorpus:PLAIN-1721",
+    "query": "NIH-AARP study",
+    "positive_ids": [
+      "nfcorpus:MED-1598",
+      "nfcorpus:MED-1599",
+      "nfcorpus:MED-1600",
+      "nfcorpus:MED-1601",
+      "nfcorpus:MED-1602",
+      "nfcorpus:MED-1603",
+      "nfcorpus:MED-1604",
+      "nfcorpus:MED-1605",
+      "nfcorpus:MED-1606",
+      "nfcorpus:MED-1607",
+      "nfcorpus:MED-1621",
+      "nfcorpus:MED-1622",
+      "nfcorpus:MED-1623",
+      "nfcorpus:MED-1624",
+      "nfcorpus:MED-1625",
+      "nfcorpus:MED-1626",
+      "nfcorpus:MED-1627",
+      "nfcorpus:MED-1628",
+      "nfcorpus:MED-1630",
+      "nfcorpus:MED-1631",
+      "nfcorpus:MED-4476",
+      "nfcorpus:MED-4820",
+      "nfcorpus:MED-4821",
+      "nfcorpus:MED-4822",
+      "nfcorpus:MED-4823",
+      "nfcorpus:MED-4824",
+      "nfcorpus:MED-4825",
+      "nfcorpus:MED-4826",
+      "nfcorpus:MED-4983",
+      "nfcorpus:MED-4985",
+      "nfcorpus:MED-5054"
+    ],
+    "top3": [
+      "nfcorpus:MED-4983",
+      "nfcorpus:MED-1602",
+      "nfcorpus:MED-3230"
+    ],
+    "hit@1": true
+  },
+  {
+    "dataset": "scifact",
+    "query_id": "scifact:517",
+    "query": "High levels of copeptin decrease risk of diabetes.",
+    "positive_ids": [
+      "scifact:15663829"
+    ],
+    "top3": [
+      "scifact:25135304",
+      "scifact:11481946",
+      "scifact:23017040"
+    ],
+    "hit@1": false
+  },
+  {
+    "dataset": "scifact",
+    "query_id": "scifact:1150",
+    "query": "Tetraspanin-3 is a causative factor in the development of acute myelogenous leukemia",
+    "positive_ids": [
+      "scifact:11369420"
+    ],
+    "top3": [
+      "scifact:11369420",
+      "scifact:9460704",
+      "scifact:24624992"
+    ],
+    "hit@1": true
+  },
+  {
+    "dataset": "scifact",
+    "query_id": "scifact:171",
+    "query": "Basophils counteract disease development in patients with systemic lupus erythematosus (SLE).",
+    "positive_ids": [
+      "scifact:12670680"
+    ],
+    "top3": [
+      "scifact:12670680",
+      "scifact:14853989",
+      "scifact:14938990"
+    ],
+    "hit@1": true
+  }
+]

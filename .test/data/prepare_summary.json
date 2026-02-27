@@ -1,0 +1,40 @@
+{
+  "scifact": {
+    "hf_name": "mteb/scifact",
+    "corpus_docs_full": 5183,
+    "corpus_docs_benchmark": 1200,
+    "queries_total": 1109,
+    "train_qrels_queries": 809,
+    "eval_qrels_queries": 300,
+    "eval_queries_selected": 50,
+    "train_pairs_selected": 919,
+    "benchmark_dir": ".test/data/benchmarks/scifact"
+  },
+  "fiqa": {
+    "hf_name": "mteb/fiqa",
+    "corpus_docs_full": 57600,
+    "corpus_docs_benchmark": 1200,
+    "queries_total": 6648,
+    "train_qrels_queries": 5500,
+    "eval_qrels_queries": 648,
+    "eval_queries_selected": 50,
+    "train_pairs_selected": 12000,
+    "benchmark_dir": ".test/data/benchmarks/fiqa"
+  },
+  "nfcorpus": {
+    "hf_name": "mteb/nfcorpus",
+    "corpus_docs_full": 3633,
+    "corpus_docs_benchmark": 1204,
+    "queries_total": 3237,
+    "train_qrels_queries": 2590,
+    "eval_qrels_queries": 323,
+    "eval_queries_selected": 50,
+    "train_pairs_selected": 20000,
+    "benchmark_dir": ".test/data/benchmarks/nfcorpus"
+  },
+  "overall": {
+    "total_train_pairs": 32919,
+    "train_pairs_file": ".test/data/train_pairs_round1.jsonl",
+    "benchmarks_dir": ".test/data/benchmarks"
+  }
+}
