@@ -19,15 +19,21 @@ def read_jsonl(path: Path) -> list[dict]:
     return rows
 
 
-def metric_for_dataset(model: SentenceTransformer, dataset_dir: Path, batch_size: int) -> dict:
+def metric_for_dataset(
+    model: SentenceTransformer,
+    dataset_dir: Path,
+    batch_size: int,
+    query_prefix: str = "",
+    corpus_prefix: str = "",
+) -> dict:
     corpus_rows = read_jsonl(dataset_dir / "corpus.jsonl")
     query_rows = read_jsonl(dataset_dir / "queries.jsonl")
 
     corpus_ids = [row["id"] for row in corpus_rows]
-    corpus_texts = [row["text"] for row in corpus_rows]
+    corpus_texts = [f"{corpus_prefix}{row['text']}" for row in corpus_rows]
 
     query_ids = [row["id"] for row in query_rows]
-    query_texts = [row["query"] for row in query_rows]
+    query_texts = [f"{query_prefix}{row['query']}" for row in query_rows]
     qrels = [set(row["positive_ids"]) for row in query_rows]
 
     corpus_emb = model.encode(
@@ -118,6 +124,8 @@ def main() -> None:
     parser.add_argument("--out-json", required=True)
     parser.add_argument("--batch-size", type=int, default=128)
     parser.add_argument("--device", default="cpu", help="torch device, e.g. cpu, cuda, mps")
+    parser.add_argument("--query-prefix", default="", help="Optional prefix for each query text")
+    parser.add_argument("--corpus-prefix", default="", help="Optional prefix for each corpus text")
     args = parser.parse_args()
 
     bench_root = Path(args.bench_root)
@@ -131,7 +139,13 @@ def main() -> None:
     results = []
     for dataset_dir in dataset_dirs:
         print(f"Evaluating {dataset_dir.name}...")
-        metrics = metric_for_dataset(model, dataset_dir, args.batch_size)
+        metrics = metric_for_dataset(
+            model,
+            dataset_dir,
+            args.batch_size,
+            query_prefix=args.query_prefix,
+            corpus_prefix=args.corpus_prefix,
+        )
         results.append(metrics)
         print(
             f"{dataset_dir.name}: hit@1={metrics['hit@1']:.4f} "
